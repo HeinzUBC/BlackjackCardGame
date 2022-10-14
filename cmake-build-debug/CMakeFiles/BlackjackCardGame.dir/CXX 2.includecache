@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/GameEngine.cpp
+GameEngine.h
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/GameEngine.h
+
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/GameEngine.h
+Player.h
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/Player.h
+
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/Player.cpp
+Player.h
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/Player.h
+GameEngine.h
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/GameEngine.h
+limits
+-
+
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/Player.h
+PlayingCard.h
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/PlayingCard.h
+
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/PlayingCard.cpp
+PlayingCard.h
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/PlayingCard.h
+RandomNumberSimulation.h
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/RandomNumberSimulation.h
+
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/PlayingCard.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/RandomNumberSimulation.h
+random
+-
+ctime
+-
+
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/main.cpp
+GameEngine.h
+/Users/aihuapu/Desktop/CS Prep/C++/BlackjackCardGame (OOP Verson)/GameEngine.h
+
